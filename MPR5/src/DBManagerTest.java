@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import org.junit.Test;
 
 public class DBManagerTest {
-	s8941.DBManager dbManager = new s8941.DBManager();
+	s8157.DBManager dbManager = new s8157.DBManager();
 
 	/*
 	 * Testowanie metod addTracksRecord, allTracksFull i deleteTrack
